@@ -16,3 +16,5 @@ Block diagram
 State diagram
 ![Flow chart](https://github.com/user-attachments/assets/9aa0fd83-4a19-4878-96c1-a785d728df50)
 
+
+![State diagram](https://github.com/user-attachments/assets/358701f7-f80b-47ac-b95a-33f8d4d63b8b)
